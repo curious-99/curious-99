@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **React JS,NEXT JS**
 
-- 👨‍💻 All of my projects are available at [https://mysterio-portfolio.netlify.app](https://mysterio-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [PortFolio](https://mysterio-portfolio.netlify.app)
 
 - 📫 How to reach me **mohit39.ugcs20@iiitranchi.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EjkzuTt7tFUczQliuCIog6tDQvRDLTItB2l-ZMcKyPI/edit?usp=sharing](https://docs.google.com/document/d/1EjkzuTt7tFUczQliuCIog6tDQvRDLTItB2l-ZMcKyPI/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1EjkzuTt7tFUczQliuCIog6tDQvRDLTItB2l-ZMcKyPI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
